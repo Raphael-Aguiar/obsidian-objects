@@ -1,3 +1,5 @@
+> **Note:** This fork's fixes have been merged upstream as of 2026-04-29. Install the official Objects plugin from Obsidian Community Plugins instead.
+
 # Objects
 
 > **Rethink your notes as objects.** Create structured, perfectly organized notes directly in your flow using simple triggers.
